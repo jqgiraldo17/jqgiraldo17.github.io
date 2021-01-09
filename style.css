@@ -1,6 +1,12 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/10/Xanthoria_parietina_(L.)_Th.Fr._(8059365084).jpg);
+    background-size: cover 
+}
 h1 {
     color: blueviolet;
     background-color:black;
+    text-align: center;
+    border: 5px dashed white;
 }
 h2 {
     color: blue;
