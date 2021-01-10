@@ -4,9 +4,10 @@ body {
 }
 h1 {
     color: blueviolet;
+
     background-color:black;
     text-align: center;
-    border: 5px dashed white;
+    border: 5px solid dashed white;
 }
 h2 {
     color: blue;
